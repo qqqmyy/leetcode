@@ -123,6 +123,87 @@ leetcode_zjy/fast:
 	$(MAKE) -f CMakeFiles/leetcode_zjy.dir/build.make CMakeFiles/leetcode_zjy.dir/build
 .PHONY : leetcode_zjy/fast
 
+LongestSubStr.o: LongestSubStr.cpp.o
+
+.PHONY : LongestSubStr.o
+
+# target to build an object file
+LongestSubStr.cpp.o:
+	$(MAKE) -f CMakeFiles/leetcode_zjy.dir/build.make CMakeFiles/leetcode_zjy.dir/LongestSubStr.cpp.o
+.PHONY : LongestSubStr.cpp.o
+
+LongestSubStr.i: LongestSubStr.cpp.i
+
+.PHONY : LongestSubStr.i
+
+# target to preprocess a source file
+LongestSubStr.cpp.i:
+	$(MAKE) -f CMakeFiles/leetcode_zjy.dir/build.make CMakeFiles/leetcode_zjy.dir/LongestSubStr.cpp.i
+.PHONY : LongestSubStr.cpp.i
+
+LongestSubStr.s: LongestSubStr.cpp.s
+
+.PHONY : LongestSubStr.s
+
+# target to generate assembly for a file
+LongestSubStr.cpp.s:
+	$(MAKE) -f CMakeFiles/leetcode_zjy.dir/build.make CMakeFiles/leetcode_zjy.dir/LongestSubStr.cpp.s
+.PHONY : LongestSubStr.cpp.s
+
+Median.o: Median.cpp.o
+
+.PHONY : Median.o
+
+# target to build an object file
+Median.cpp.o:
+	$(MAKE) -f CMakeFiles/leetcode_zjy.dir/build.make CMakeFiles/leetcode_zjy.dir/Median.cpp.o
+.PHONY : Median.cpp.o
+
+Median.i: Median.cpp.i
+
+.PHONY : Median.i
+
+# target to preprocess a source file
+Median.cpp.i:
+	$(MAKE) -f CMakeFiles/leetcode_zjy.dir/build.make CMakeFiles/leetcode_zjy.dir/Median.cpp.i
+.PHONY : Median.cpp.i
+
+Median.s: Median.cpp.s
+
+.PHONY : Median.s
+
+# target to generate assembly for a file
+Median.cpp.s:
+	$(MAKE) -f CMakeFiles/leetcode_zjy.dir/build.make CMakeFiles/leetcode_zjy.dir/Median.cpp.s
+.PHONY : Median.cpp.s
+
+Palindrome.o: Palindrome.cpp.o
+
+.PHONY : Palindrome.o
+
+# target to build an object file
+Palindrome.cpp.o:
+	$(MAKE) -f CMakeFiles/leetcode_zjy.dir/build.make CMakeFiles/leetcode_zjy.dir/Palindrome.cpp.o
+.PHONY : Palindrome.cpp.o
+
+Palindrome.i: Palindrome.cpp.i
+
+.PHONY : Palindrome.i
+
+# target to preprocess a source file
+Palindrome.cpp.i:
+	$(MAKE) -f CMakeFiles/leetcode_zjy.dir/build.make CMakeFiles/leetcode_zjy.dir/Palindrome.cpp.i
+.PHONY : Palindrome.cpp.i
+
+Palindrome.s: Palindrome.cpp.s
+
+.PHONY : Palindrome.s
+
+# target to generate assembly for a file
+Palindrome.cpp.s:
+	$(MAKE) -f CMakeFiles/leetcode_zjy.dir/build.make CMakeFiles/leetcode_zjy.dir/Palindrome.cpp.s
+.PHONY : Palindrome.cpp.s
+
 main.o: main.cpp.o
 
 .PHONY : main.o
@@ -150,6 +231,33 @@ main.cpp.s:
 	$(MAKE) -f CMakeFiles/leetcode_zjy.dir/build.make CMakeFiles/leetcode_zjy.dir/main.cpp.s
 .PHONY : main.cpp.s
 
+test.o: test.cpp.o
+
+.PHONY : test.o
+
+# target to build an object file
+test.cpp.o:
+	$(MAKE) -f CMakeFiles/leetcode_zjy.dir/build.make CMakeFiles/leetcode_zjy.dir/test.cpp.o
+.PHONY : test.cpp.o
+
+test.i: test.cpp.i
+
+.PHONY : test.i
+
+# target to preprocess a source file
+test.cpp.i:
+	$(MAKE) -f CMakeFiles/leetcode_zjy.dir/build.make CMakeFiles/leetcode_zjy.dir/test.cpp.i
+.PHONY : test.cpp.i
+
+test.s: test.cpp.s
+
+.PHONY : test.s
+
+# target to generate assembly for a file
+test.cpp.s:
+	$(MAKE) -f CMakeFiles/leetcode_zjy.dir/build.make CMakeFiles/leetcode_zjy.dir/test.cpp.s
+.PHONY : test.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -159,9 +267,21 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... leetcode_zjy"
+	@echo "... LongestSubStr.o"
+	@echo "... LongestSubStr.i"
+	@echo "... LongestSubStr.s"
+	@echo "... Median.o"
+	@echo "... Median.i"
+	@echo "... Median.s"
+	@echo "... Palindrome.o"
+	@echo "... Palindrome.i"
+	@echo "... Palindrome.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
+	@echo "... test.o"
+	@echo "... test.i"
+	@echo "... test.s"
 .PHONY : help
 
 

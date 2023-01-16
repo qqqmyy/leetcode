@@ -80,7 +80,31 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/Users/hey/university/SJTU/learning/leetcode-zjy/LongestSubStr.cpp">
+			<Option target="leetcode_zjy"/>
+		</Unit>
+		<Unit filename="/Users/hey/university/SJTU/learning/leetcode-zjy/LongestSubStr.h">
+			<Option target="leetcode_zjy"/>
+		</Unit>
+		<Unit filename="/Users/hey/university/SJTU/learning/leetcode-zjy/Median.cpp">
+			<Option target="leetcode_zjy"/>
+		</Unit>
+		<Unit filename="/Users/hey/university/SJTU/learning/leetcode-zjy/Median.h">
+			<Option target="leetcode_zjy"/>
+		</Unit>
+		<Unit filename="/Users/hey/university/SJTU/learning/leetcode-zjy/Palindrome.cpp">
+			<Option target="leetcode_zjy"/>
+		</Unit>
+		<Unit filename="/Users/hey/university/SJTU/learning/leetcode-zjy/Palindrome.h">
+			<Option target="leetcode_zjy"/>
+		</Unit>
 		<Unit filename="/Users/hey/university/SJTU/learning/leetcode-zjy/main.cpp">
+			<Option target="leetcode_zjy"/>
+		</Unit>
+		<Unit filename="/Users/hey/university/SJTU/learning/leetcode-zjy/test.cpp">
+			<Option target="leetcode_zjy"/>
+		</Unit>
+		<Unit filename="/Users/hey/university/SJTU/learning/leetcode-zjy/test.h">
 			<Option target="leetcode_zjy"/>
 		</Unit>
 		<Unit filename="/Users/hey/university/SJTU/learning/leetcode-zjy/CMakeLists.txt">
