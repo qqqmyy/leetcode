@@ -366,6 +366,87 @@ main.cpp.s:
 	$(MAKE) -f CMakeFiles/leetcode_zjy.dir/build.make CMakeFiles/leetcode_zjy.dir/main.cpp.s
 .PHONY : main.cpp.s
 
+mergeTwoListsSol.o: mergeTwoListsSol.cpp.o
+
+.PHONY : mergeTwoListsSol.o
+
+# target to build an object file
+mergeTwoListsSol.cpp.o:
+	$(MAKE) -f CMakeFiles/leetcode_zjy.dir/build.make CMakeFiles/leetcode_zjy.dir/mergeTwoListsSol.cpp.o
+.PHONY : mergeTwoListsSol.cpp.o
+
+mergeTwoListsSol.i: mergeTwoListsSol.cpp.i
+
+.PHONY : mergeTwoListsSol.i
+
+# target to preprocess a source file
+mergeTwoListsSol.cpp.i:
+	$(MAKE) -f CMakeFiles/leetcode_zjy.dir/build.make CMakeFiles/leetcode_zjy.dir/mergeTwoListsSol.cpp.i
+.PHONY : mergeTwoListsSol.cpp.i
+
+mergeTwoListsSol.s: mergeTwoListsSol.cpp.s
+
+.PHONY : mergeTwoListsSol.s
+
+# target to generate assembly for a file
+mergeTwoListsSol.cpp.s:
+	$(MAKE) -f CMakeFiles/leetcode_zjy.dir/build.make CMakeFiles/leetcode_zjy.dir/mergeTwoListsSol.cpp.s
+.PHONY : mergeTwoListsSol.cpp.s
+
+nextPermutationSol.o: nextPermutationSol.cpp.o
+
+.PHONY : nextPermutationSol.o
+
+# target to build an object file
+nextPermutationSol.cpp.o:
+	$(MAKE) -f CMakeFiles/leetcode_zjy.dir/build.make CMakeFiles/leetcode_zjy.dir/nextPermutationSol.cpp.o
+.PHONY : nextPermutationSol.cpp.o
+
+nextPermutationSol.i: nextPermutationSol.cpp.i
+
+.PHONY : nextPermutationSol.i
+
+# target to preprocess a source file
+nextPermutationSol.cpp.i:
+	$(MAKE) -f CMakeFiles/leetcode_zjy.dir/build.make CMakeFiles/leetcode_zjy.dir/nextPermutationSol.cpp.i
+.PHONY : nextPermutationSol.cpp.i
+
+nextPermutationSol.s: nextPermutationSol.cpp.s
+
+.PHONY : nextPermutationSol.s
+
+# target to generate assembly for a file
+nextPermutationSol.cpp.s:
+	$(MAKE) -f CMakeFiles/leetcode_zjy.dir/build.make CMakeFiles/leetcode_zjy.dir/nextPermutationSol.cpp.s
+.PHONY : nextPermutationSol.cpp.s
+
+removeNthFromEndSol.o: removeNthFromEndSol.cpp.o
+
+.PHONY : removeNthFromEndSol.o
+
+# target to build an object file
+removeNthFromEndSol.cpp.o:
+	$(MAKE) -f CMakeFiles/leetcode_zjy.dir/build.make CMakeFiles/leetcode_zjy.dir/removeNthFromEndSol.cpp.o
+.PHONY : removeNthFromEndSol.cpp.o
+
+removeNthFromEndSol.i: removeNthFromEndSol.cpp.i
+
+.PHONY : removeNthFromEndSol.i
+
+# target to preprocess a source file
+removeNthFromEndSol.cpp.i:
+	$(MAKE) -f CMakeFiles/leetcode_zjy.dir/build.make CMakeFiles/leetcode_zjy.dir/removeNthFromEndSol.cpp.i
+.PHONY : removeNthFromEndSol.cpp.i
+
+removeNthFromEndSol.s: removeNthFromEndSol.cpp.s
+
+.PHONY : removeNthFromEndSol.s
+
+# target to generate assembly for a file
+removeNthFromEndSol.cpp.s:
+	$(MAKE) -f CMakeFiles/leetcode_zjy.dir/build.make CMakeFiles/leetcode_zjy.dir/removeNthFromEndSol.cpp.s
+.PHONY : removeNthFromEndSol.cpp.s
+
 test.o: test.cpp.o
 
 .PHONY : test.o
@@ -429,6 +510,15 @@ help:
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
+	@echo "... mergeTwoListsSol.o"
+	@echo "... mergeTwoListsSol.i"
+	@echo "... mergeTwoListsSol.s"
+	@echo "... nextPermutationSol.o"
+	@echo "... nextPermutationSol.i"
+	@echo "... nextPermutationSol.s"
+	@echo "... removeNthFromEndSol.o"
+	@echo "... removeNthFromEndSol.i"
+	@echo "... removeNthFromEndSol.s"
 	@echo "... test.o"
 	@echo "... test.i"
 	@echo "... test.s"

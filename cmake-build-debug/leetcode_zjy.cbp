@@ -131,6 +131,24 @@
 		<Unit filename="/Users/hey/university/SJTU/learning/leetcode-zjy/main.cpp">
 			<Option target="leetcode_zjy"/>
 		</Unit>
+		<Unit filename="/Users/hey/university/SJTU/learning/leetcode-zjy/mergeTwoListsSol.cpp">
+			<Option target="leetcode_zjy"/>
+		</Unit>
+		<Unit filename="/Users/hey/university/SJTU/learning/leetcode-zjy/mergeTwoListsSol.h">
+			<Option target="leetcode_zjy"/>
+		</Unit>
+		<Unit filename="/Users/hey/university/SJTU/learning/leetcode-zjy/nextPermutationSol.cpp">
+			<Option target="leetcode_zjy"/>
+		</Unit>
+		<Unit filename="/Users/hey/university/SJTU/learning/leetcode-zjy/nextPermutationSol.h">
+			<Option target="leetcode_zjy"/>
+		</Unit>
+		<Unit filename="/Users/hey/university/SJTU/learning/leetcode-zjy/removeNthFromEndSol.cpp">
+			<Option target="leetcode_zjy"/>
+		</Unit>
+		<Unit filename="/Users/hey/university/SJTU/learning/leetcode-zjy/removeNthFromEndSol.h">
+			<Option target="leetcode_zjy"/>
+		</Unit>
 		<Unit filename="/Users/hey/university/SJTU/learning/leetcode-zjy/test.cpp">
 			<Option target="leetcode_zjy"/>
 		</Unit>

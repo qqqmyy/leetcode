@@ -8,13 +8,15 @@
 #include "LetterCombinationsSol.h"
 #include "CMyString.h"
 #include "generateParenthesisSol.h"
+#include "removeNthFromEndSol.h"
+#include "mergeTwoListsSol.h"
+#include "nextPermutationSol.h"
 
 int main(int argc, char *argv[]) {
     std::cout << "Hello, World!" << std::endl;
-    CMyString cMyString;
-    cMyString.Test1();
-    cMyString.Test2();
-    cMyString.Test3();
+
+    nextPermutationSol n;
+    n.nMain();
 
     return 0;
 }

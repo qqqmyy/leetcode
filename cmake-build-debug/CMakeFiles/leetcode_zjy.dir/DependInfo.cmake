@@ -13,6 +13,9 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "/Users/hey/university/SJTU/learning/leetcode-zjy/ThreeSumSol.cpp" "/Users/hey/university/SJTU/learning/leetcode-zjy/cmake-build-debug/CMakeFiles/leetcode_zjy.dir/ThreeSumSol.cpp.o"
   "/Users/hey/university/SJTU/learning/leetcode-zjy/generateParenthesisSol.cpp" "/Users/hey/university/SJTU/learning/leetcode-zjy/cmake-build-debug/CMakeFiles/leetcode_zjy.dir/generateParenthesisSol.cpp.o"
   "/Users/hey/university/SJTU/learning/leetcode-zjy/main.cpp" "/Users/hey/university/SJTU/learning/leetcode-zjy/cmake-build-debug/CMakeFiles/leetcode_zjy.dir/main.cpp.o"
+  "/Users/hey/university/SJTU/learning/leetcode-zjy/mergeTwoListsSol.cpp" "/Users/hey/university/SJTU/learning/leetcode-zjy/cmake-build-debug/CMakeFiles/leetcode_zjy.dir/mergeTwoListsSol.cpp.o"
+  "/Users/hey/university/SJTU/learning/leetcode-zjy/nextPermutationSol.cpp" "/Users/hey/university/SJTU/learning/leetcode-zjy/cmake-build-debug/CMakeFiles/leetcode_zjy.dir/nextPermutationSol.cpp.o"
+  "/Users/hey/university/SJTU/learning/leetcode-zjy/removeNthFromEndSol.cpp" "/Users/hey/university/SJTU/learning/leetcode-zjy/cmake-build-debug/CMakeFiles/leetcode_zjy.dir/removeNthFromEndSol.cpp.o"
   "/Users/hey/university/SJTU/learning/leetcode-zjy/test.cpp" "/Users/hey/university/SJTU/learning/leetcode-zjy/cmake-build-debug/CMakeFiles/leetcode_zjy.dir/test.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "AppleClang")

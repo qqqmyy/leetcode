@@ -34,7 +34,20 @@ CMakeFiles/leetcode_zjy.dir/main.cpp.o: ../Palindrome.h
 CMakeFiles/leetcode_zjy.dir/main.cpp.o: ../ThreeSumSol.h
 CMakeFiles/leetcode_zjy.dir/main.cpp.o: ../generateParenthesisSol.h
 CMakeFiles/leetcode_zjy.dir/main.cpp.o: ../main.cpp
+CMakeFiles/leetcode_zjy.dir/main.cpp.o: ../mergeTwoListsSol.h
+CMakeFiles/leetcode_zjy.dir/main.cpp.o: ../nextPermutationSol.h
+CMakeFiles/leetcode_zjy.dir/main.cpp.o: ../removeNthFromEndSol.h
 CMakeFiles/leetcode_zjy.dir/main.cpp.o: ../test.h
+
+CMakeFiles/leetcode_zjy.dir/mergeTwoListsSol.cpp.o: ../mergeTwoListsSol.cpp
+CMakeFiles/leetcode_zjy.dir/mergeTwoListsSol.cpp.o: ../mergeTwoListsSol.h
+
+CMakeFiles/leetcode_zjy.dir/nextPermutationSol.cpp.o: ../nextPermutationSol.cpp
+CMakeFiles/leetcode_zjy.dir/nextPermutationSol.cpp.o: ../nextPermutationSol.h
+
+CMakeFiles/leetcode_zjy.dir/removeNthFromEndSol.cpp.o: ../mergeTwoListsSol.h
+CMakeFiles/leetcode_zjy.dir/removeNthFromEndSol.cpp.o: ../removeNthFromEndSol.cpp
+CMakeFiles/leetcode_zjy.dir/removeNthFromEndSol.cpp.o: ../removeNthFromEndSol.h
 
 CMakeFiles/leetcode_zjy.dir/test.cpp.o: ../test.cpp
 CMakeFiles/leetcode_zjy.dir/test.cpp.o: ../test.h

@@ -187,6 +187,45 @@ CMakeFiles/leetcode_zjy.dir/generateParenthesisSol.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/leetcode_zjy.dir/generateParenthesisSol.cpp.s"
 	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/hey/university/SJTU/learning/leetcode-zjy/generateParenthesisSol.cpp -o CMakeFiles/leetcode_zjy.dir/generateParenthesisSol.cpp.s
 
+CMakeFiles/leetcode_zjy.dir/removeNthFromEndSol.cpp.o: CMakeFiles/leetcode_zjy.dir/flags.make
+CMakeFiles/leetcode_zjy.dir/removeNthFromEndSol.cpp.o: ../removeNthFromEndSol.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/hey/university/SJTU/learning/leetcode-zjy/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/leetcode_zjy.dir/removeNthFromEndSol.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/leetcode_zjy.dir/removeNthFromEndSol.cpp.o -c /Users/hey/university/SJTU/learning/leetcode-zjy/removeNthFromEndSol.cpp
+
+CMakeFiles/leetcode_zjy.dir/removeNthFromEndSol.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/leetcode_zjy.dir/removeNthFromEndSol.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/hey/university/SJTU/learning/leetcode-zjy/removeNthFromEndSol.cpp > CMakeFiles/leetcode_zjy.dir/removeNthFromEndSol.cpp.i
+
+CMakeFiles/leetcode_zjy.dir/removeNthFromEndSol.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/leetcode_zjy.dir/removeNthFromEndSol.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/hey/university/SJTU/learning/leetcode-zjy/removeNthFromEndSol.cpp -o CMakeFiles/leetcode_zjy.dir/removeNthFromEndSol.cpp.s
+
+CMakeFiles/leetcode_zjy.dir/mergeTwoListsSol.cpp.o: CMakeFiles/leetcode_zjy.dir/flags.make
+CMakeFiles/leetcode_zjy.dir/mergeTwoListsSol.cpp.o: ../mergeTwoListsSol.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/hey/university/SJTU/learning/leetcode-zjy/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object CMakeFiles/leetcode_zjy.dir/mergeTwoListsSol.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/leetcode_zjy.dir/mergeTwoListsSol.cpp.o -c /Users/hey/university/SJTU/learning/leetcode-zjy/mergeTwoListsSol.cpp
+
+CMakeFiles/leetcode_zjy.dir/mergeTwoListsSol.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/leetcode_zjy.dir/mergeTwoListsSol.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/hey/university/SJTU/learning/leetcode-zjy/mergeTwoListsSol.cpp > CMakeFiles/leetcode_zjy.dir/mergeTwoListsSol.cpp.i
+
+CMakeFiles/leetcode_zjy.dir/mergeTwoListsSol.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/leetcode_zjy.dir/mergeTwoListsSol.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/hey/university/SJTU/learning/leetcode-zjy/mergeTwoListsSol.cpp -o CMakeFiles/leetcode_zjy.dir/mergeTwoListsSol.cpp.s
+
+CMakeFiles/leetcode_zjy.dir/nextPermutationSol.cpp.o: CMakeFiles/leetcode_zjy.dir/flags.make
+CMakeFiles/leetcode_zjy.dir/nextPermutationSol.cpp.o: ../nextPermutationSol.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/hey/university/SJTU/learning/leetcode-zjy/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building CXX object CMakeFiles/leetcode_zjy.dir/nextPermutationSol.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/leetcode_zjy.dir/nextPermutationSol.cpp.o -c /Users/hey/university/SJTU/learning/leetcode-zjy/nextPermutationSol.cpp
+
+CMakeFiles/leetcode_zjy.dir/nextPermutationSol.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/leetcode_zjy.dir/nextPermutationSol.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/hey/university/SJTU/learning/leetcode-zjy/nextPermutationSol.cpp > CMakeFiles/leetcode_zjy.dir/nextPermutationSol.cpp.i
+
+CMakeFiles/leetcode_zjy.dir/nextPermutationSol.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/leetcode_zjy.dir/nextPermutationSol.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/hey/university/SJTU/learning/leetcode-zjy/nextPermutationSol.cpp -o CMakeFiles/leetcode_zjy.dir/nextPermutationSol.cpp.s
+
 # Object files for target leetcode_zjy
 leetcode_zjy_OBJECTS = \
 "CMakeFiles/leetcode_zjy.dir/main.cpp.o" \
@@ -198,7 +237,10 @@ leetcode_zjy_OBJECTS = \
 "CMakeFiles/leetcode_zjy.dir/ThreeSumSol.cpp.o" \
 "CMakeFiles/leetcode_zjy.dir/LetterCombinationsSol.cpp.o" \
 "CMakeFiles/leetcode_zjy.dir/CMyString.cpp.o" \
-"CMakeFiles/leetcode_zjy.dir/generateParenthesisSol.cpp.o"
+"CMakeFiles/leetcode_zjy.dir/generateParenthesisSol.cpp.o" \
+"CMakeFiles/leetcode_zjy.dir/removeNthFromEndSol.cpp.o" \
+"CMakeFiles/leetcode_zjy.dir/mergeTwoListsSol.cpp.o" \
+"CMakeFiles/leetcode_zjy.dir/nextPermutationSol.cpp.o"
 
 # External object files for target leetcode_zjy
 leetcode_zjy_EXTERNAL_OBJECTS =
@@ -213,9 +255,12 @@ leetcode_zjy: CMakeFiles/leetcode_zjy.dir/ThreeSumSol.cpp.o
 leetcode_zjy: CMakeFiles/leetcode_zjy.dir/LetterCombinationsSol.cpp.o
 leetcode_zjy: CMakeFiles/leetcode_zjy.dir/CMyString.cpp.o
 leetcode_zjy: CMakeFiles/leetcode_zjy.dir/generateParenthesisSol.cpp.o
+leetcode_zjy: CMakeFiles/leetcode_zjy.dir/removeNthFromEndSol.cpp.o
+leetcode_zjy: CMakeFiles/leetcode_zjy.dir/mergeTwoListsSol.cpp.o
+leetcode_zjy: CMakeFiles/leetcode_zjy.dir/nextPermutationSol.cpp.o
 leetcode_zjy: CMakeFiles/leetcode_zjy.dir/build.make
 leetcode_zjy: CMakeFiles/leetcode_zjy.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/hey/university/SJTU/learning/leetcode-zjy/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Linking CXX executable leetcode_zjy"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/hey/university/SJTU/learning/leetcode-zjy/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Linking CXX executable leetcode_zjy"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/leetcode_zjy.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

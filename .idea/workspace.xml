@@ -12,24 +12,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2001ea2e-2e59-4bf9-aca5-ca70bf4616c7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/CMyString.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CMyString.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LetterCombinationsSol.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LetterCombinationsSol.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ThreeSumSol.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ThreeSumSol.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generateParenthesisSol.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generateParenthesisSol.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/removeNthFromEndSol.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/removeNthFromEndSol.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mergeTwoListsSol.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nextPermutationSol.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nextPermutationSol.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MaxArea.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/MaxArea.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MaxArea.h" beforeDir="false" afterPath="$PROJECT_DIR$/MaxArea.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Singleton.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/mergeTwoListsSol.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Singleton.h" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/leetcode_zjy.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/leetcode_zjy.dir/CXX.includecache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/leetcode_zjy.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/leetcode_zjy.dir/DependInfo.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/leetcode_zjy.dir/Palindrome.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/leetcode_zjy.dir/Palindrome.cpp.o" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/leetcode_zjy.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/leetcode_zjy.dir/build.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/leetcode_zjy.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/leetcode_zjy.dir/cmake_clean.cmake" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/leetcode_zjy.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/leetcode_zjy.dir/depend.internal" afterDir="false" />
@@ -42,6 +34,8 @@
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/leetcode_zjy" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/leetcode_zjy" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/leetcode_zjy.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/leetcode_zjy.cbp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/removeNthFromEndSol.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/removeNthFromEndSol.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/removeNthFromEndSol.h" beforeDir="false" afterPath="$PROJECT_DIR$/removeNthFromEndSol.h" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -102,7 +96,7 @@
       <workItem from="1673670075637" duration="12009000" />
       <workItem from="1673840799599" duration="3329000" />
       <workItem from="1673844770543" duration="13339000" />
-      <workItem from="1674007940248" duration="16898000" />
+      <workItem from="1674007940248" duration="28143000" />
     </task>
     <servers />
   </component>
