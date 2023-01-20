@@ -80,10 +80,28 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/Users/hey/university/SJTU/learning/leetcode-zjy/CMyString.cpp">
+			<Option target="leetcode_zjy"/>
+		</Unit>
+		<Unit filename="/Users/hey/university/SJTU/learning/leetcode-zjy/CMyString.h">
+			<Option target="leetcode_zjy"/>
+		</Unit>
+		<Unit filename="/Users/hey/university/SJTU/learning/leetcode-zjy/LetterCombinationsSol.cpp">
+			<Option target="leetcode_zjy"/>
+		</Unit>
+		<Unit filename="/Users/hey/university/SJTU/learning/leetcode-zjy/LetterCombinationsSol.h">
+			<Option target="leetcode_zjy"/>
+		</Unit>
 		<Unit filename="/Users/hey/university/SJTU/learning/leetcode-zjy/LongestSubStr.cpp">
 			<Option target="leetcode_zjy"/>
 		</Unit>
 		<Unit filename="/Users/hey/university/SJTU/learning/leetcode-zjy/LongestSubStr.h">
+			<Option target="leetcode_zjy"/>
+		</Unit>
+		<Unit filename="/Users/hey/university/SJTU/learning/leetcode-zjy/MaxArea.cpp">
+			<Option target="leetcode_zjy"/>
+		</Unit>
+		<Unit filename="/Users/hey/university/SJTU/learning/leetcode-zjy/MaxArea.h">
 			<Option target="leetcode_zjy"/>
 		</Unit>
 		<Unit filename="/Users/hey/university/SJTU/learning/leetcode-zjy/Median.cpp">
@@ -96,6 +114,18 @@
 			<Option target="leetcode_zjy"/>
 		</Unit>
 		<Unit filename="/Users/hey/university/SJTU/learning/leetcode-zjy/Palindrome.h">
+			<Option target="leetcode_zjy"/>
+		</Unit>
+		<Unit filename="/Users/hey/university/SJTU/learning/leetcode-zjy/ThreeSumSol.cpp">
+			<Option target="leetcode_zjy"/>
+		</Unit>
+		<Unit filename="/Users/hey/university/SJTU/learning/leetcode-zjy/ThreeSumSol.h">
+			<Option target="leetcode_zjy"/>
+		</Unit>
+		<Unit filename="/Users/hey/university/SJTU/learning/leetcode-zjy/generateParenthesisSol.cpp">
+			<Option target="leetcode_zjy"/>
+		</Unit>
+		<Unit filename="/Users/hey/university/SJTU/learning/leetcode-zjy/generateParenthesisSol.h">
 			<Option target="leetcode_zjy"/>
 		</Unit>
 		<Unit filename="/Users/hey/university/SJTU/learning/leetcode-zjy/main.cpp">

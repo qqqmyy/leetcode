@@ -3,17 +3,18 @@
 #include "LongestSubStr.h"
 #include "Median.h"
 #include "Palindrome.h"
+#include "MaxArea.h"
+#include "ThreeSumSol.h"
+#include "LetterCombinationsSol.h"
+#include "CMyString.h"
+#include "generateParenthesisSol.h"
 
 int main(int argc, char *argv[]) {
     std::cout << "Hello, World!" << std::endl;
-//    test t;
-//    t.testmain();
-//    LongestSubStr longestSubStr;
-//    longestSubStr.LongestSubStrMain();
-//    Median median;
-//    median.MedianMain();
-    Palindrome palindrome;
-    palindrome.pMain();
+    CMyString cMyString;
+    cMyString.Test1();
+    cMyString.Test2();
+    cMyString.Test3();
 
     return 0;
 }

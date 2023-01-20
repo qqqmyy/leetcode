@@ -6,13 +6,13 @@
 
 #IncludeRegexTransform: 
 
-/Users/hey/university/SJTU/learning/leetcode-zjy/Palindrome.cpp
-Palindrome.h
-/Users/hey/university/SJTU/learning/leetcode-zjy/Palindrome.h
-vector
-/Users/hey/university/SJTU/learning/leetcode-zjy/vector
+/Users/hey/university/SJTU/learning/leetcode-zjy/CMyString.cpp
+CMyString.h
+/Users/hey/university/SJTU/learning/leetcode-zjy/CMyString.h
+stdlib.h
+/Users/hey/university/SJTU/learning/leetcode-zjy/stdlib.h
+string
+/Users/hey/university/SJTU/learning/leetcode-zjy/string
 
-/Users/hey/university/SJTU/learning/leetcode-zjy/Palindrome.h
-iostream
-/Users/hey/university/SJTU/learning/leetcode-zjy/iostream
+/Users/hey/university/SJTU/learning/leetcode-zjy/CMyString.h
 

@@ -3,4 +3,6 @@ project(leetcode_zjy)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(leetcode_zjy main.cpp test.h test.cpp LongestSubStr.h LongestSubStr.cpp Median.h Median.cpp Palindrome.h Palindrome.cpp)
+add_executable(leetcode_zjy main.cpp test.h test.cpp LongestSubStr.h LongestSubStr.cpp Median.h Median.cpp
+        Palindrome.h Palindrome.cpp MaxArea.h MaxArea.cpp ThreeSumSol.h ThreeSumSol.cpp LetterCombinationsSol.h LetterCombinationsSol.cpp
+        CMyString.h CMyString.cpp generateParenthesisSol.h generateParenthesisSol.cpp)

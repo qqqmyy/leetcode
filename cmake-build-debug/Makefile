@@ -123,6 +123,60 @@ leetcode_zjy/fast:
 	$(MAKE) -f CMakeFiles/leetcode_zjy.dir/build.make CMakeFiles/leetcode_zjy.dir/build
 .PHONY : leetcode_zjy/fast
 
+CMyString.o: CMyString.cpp.o
+
+.PHONY : CMyString.o
+
+# target to build an object file
+CMyString.cpp.o:
+	$(MAKE) -f CMakeFiles/leetcode_zjy.dir/build.make CMakeFiles/leetcode_zjy.dir/CMyString.cpp.o
+.PHONY : CMyString.cpp.o
+
+CMyString.i: CMyString.cpp.i
+
+.PHONY : CMyString.i
+
+# target to preprocess a source file
+CMyString.cpp.i:
+	$(MAKE) -f CMakeFiles/leetcode_zjy.dir/build.make CMakeFiles/leetcode_zjy.dir/CMyString.cpp.i
+.PHONY : CMyString.cpp.i
+
+CMyString.s: CMyString.cpp.s
+
+.PHONY : CMyString.s
+
+# target to generate assembly for a file
+CMyString.cpp.s:
+	$(MAKE) -f CMakeFiles/leetcode_zjy.dir/build.make CMakeFiles/leetcode_zjy.dir/CMyString.cpp.s
+.PHONY : CMyString.cpp.s
+
+LetterCombinationsSol.o: LetterCombinationsSol.cpp.o
+
+.PHONY : LetterCombinationsSol.o
+
+# target to build an object file
+LetterCombinationsSol.cpp.o:
+	$(MAKE) -f CMakeFiles/leetcode_zjy.dir/build.make CMakeFiles/leetcode_zjy.dir/LetterCombinationsSol.cpp.o
+.PHONY : LetterCombinationsSol.cpp.o
+
+LetterCombinationsSol.i: LetterCombinationsSol.cpp.i
+
+.PHONY : LetterCombinationsSol.i
+
+# target to preprocess a source file
+LetterCombinationsSol.cpp.i:
+	$(MAKE) -f CMakeFiles/leetcode_zjy.dir/build.make CMakeFiles/leetcode_zjy.dir/LetterCombinationsSol.cpp.i
+.PHONY : LetterCombinationsSol.cpp.i
+
+LetterCombinationsSol.s: LetterCombinationsSol.cpp.s
+
+.PHONY : LetterCombinationsSol.s
+
+# target to generate assembly for a file
+LetterCombinationsSol.cpp.s:
+	$(MAKE) -f CMakeFiles/leetcode_zjy.dir/build.make CMakeFiles/leetcode_zjy.dir/LetterCombinationsSol.cpp.s
+.PHONY : LetterCombinationsSol.cpp.s
+
 LongestSubStr.o: LongestSubStr.cpp.o
 
 .PHONY : LongestSubStr.o
@@ -149,6 +203,33 @@ LongestSubStr.s: LongestSubStr.cpp.s
 LongestSubStr.cpp.s:
 	$(MAKE) -f CMakeFiles/leetcode_zjy.dir/build.make CMakeFiles/leetcode_zjy.dir/LongestSubStr.cpp.s
 .PHONY : LongestSubStr.cpp.s
+
+MaxArea.o: MaxArea.cpp.o
+
+.PHONY : MaxArea.o
+
+# target to build an object file
+MaxArea.cpp.o:
+	$(MAKE) -f CMakeFiles/leetcode_zjy.dir/build.make CMakeFiles/leetcode_zjy.dir/MaxArea.cpp.o
+.PHONY : MaxArea.cpp.o
+
+MaxArea.i: MaxArea.cpp.i
+
+.PHONY : MaxArea.i
+
+# target to preprocess a source file
+MaxArea.cpp.i:
+	$(MAKE) -f CMakeFiles/leetcode_zjy.dir/build.make CMakeFiles/leetcode_zjy.dir/MaxArea.cpp.i
+.PHONY : MaxArea.cpp.i
+
+MaxArea.s: MaxArea.cpp.s
+
+.PHONY : MaxArea.s
+
+# target to generate assembly for a file
+MaxArea.cpp.s:
+	$(MAKE) -f CMakeFiles/leetcode_zjy.dir/build.make CMakeFiles/leetcode_zjy.dir/MaxArea.cpp.s
+.PHONY : MaxArea.cpp.s
 
 Median.o: Median.cpp.o
 
@@ -203,6 +284,60 @@ Palindrome.s: Palindrome.cpp.s
 Palindrome.cpp.s:
 	$(MAKE) -f CMakeFiles/leetcode_zjy.dir/build.make CMakeFiles/leetcode_zjy.dir/Palindrome.cpp.s
 .PHONY : Palindrome.cpp.s
+
+ThreeSumSol.o: ThreeSumSol.cpp.o
+
+.PHONY : ThreeSumSol.o
+
+# target to build an object file
+ThreeSumSol.cpp.o:
+	$(MAKE) -f CMakeFiles/leetcode_zjy.dir/build.make CMakeFiles/leetcode_zjy.dir/ThreeSumSol.cpp.o
+.PHONY : ThreeSumSol.cpp.o
+
+ThreeSumSol.i: ThreeSumSol.cpp.i
+
+.PHONY : ThreeSumSol.i
+
+# target to preprocess a source file
+ThreeSumSol.cpp.i:
+	$(MAKE) -f CMakeFiles/leetcode_zjy.dir/build.make CMakeFiles/leetcode_zjy.dir/ThreeSumSol.cpp.i
+.PHONY : ThreeSumSol.cpp.i
+
+ThreeSumSol.s: ThreeSumSol.cpp.s
+
+.PHONY : ThreeSumSol.s
+
+# target to generate assembly for a file
+ThreeSumSol.cpp.s:
+	$(MAKE) -f CMakeFiles/leetcode_zjy.dir/build.make CMakeFiles/leetcode_zjy.dir/ThreeSumSol.cpp.s
+.PHONY : ThreeSumSol.cpp.s
+
+generateParenthesisSol.o: generateParenthesisSol.cpp.o
+
+.PHONY : generateParenthesisSol.o
+
+# target to build an object file
+generateParenthesisSol.cpp.o:
+	$(MAKE) -f CMakeFiles/leetcode_zjy.dir/build.make CMakeFiles/leetcode_zjy.dir/generateParenthesisSol.cpp.o
+.PHONY : generateParenthesisSol.cpp.o
+
+generateParenthesisSol.i: generateParenthesisSol.cpp.i
+
+.PHONY : generateParenthesisSol.i
+
+# target to preprocess a source file
+generateParenthesisSol.cpp.i:
+	$(MAKE) -f CMakeFiles/leetcode_zjy.dir/build.make CMakeFiles/leetcode_zjy.dir/generateParenthesisSol.cpp.i
+.PHONY : generateParenthesisSol.cpp.i
+
+generateParenthesisSol.s: generateParenthesisSol.cpp.s
+
+.PHONY : generateParenthesisSol.s
+
+# target to generate assembly for a file
+generateParenthesisSol.cpp.s:
+	$(MAKE) -f CMakeFiles/leetcode_zjy.dir/build.make CMakeFiles/leetcode_zjy.dir/generateParenthesisSol.cpp.s
+.PHONY : generateParenthesisSol.cpp.s
 
 main.o: main.cpp.o
 
@@ -267,15 +402,30 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... leetcode_zjy"
+	@echo "... CMyString.o"
+	@echo "... CMyString.i"
+	@echo "... CMyString.s"
+	@echo "... LetterCombinationsSol.o"
+	@echo "... LetterCombinationsSol.i"
+	@echo "... LetterCombinationsSol.s"
 	@echo "... LongestSubStr.o"
 	@echo "... LongestSubStr.i"
 	@echo "... LongestSubStr.s"
+	@echo "... MaxArea.o"
+	@echo "... MaxArea.i"
+	@echo "... MaxArea.s"
 	@echo "... Median.o"
 	@echo "... Median.i"
 	@echo "... Median.s"
 	@echo "... Palindrome.o"
 	@echo "... Palindrome.i"
 	@echo "... Palindrome.s"
+	@echo "... ThreeSumSol.o"
+	@echo "... ThreeSumSol.i"
+	@echo "... ThreeSumSol.s"
+	@echo "... generateParenthesisSol.o"
+	@echo "... generateParenthesisSol.i"
+	@echo "... generateParenthesisSol.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
