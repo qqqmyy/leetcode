@@ -6,13 +6,9 @@
 
 #IncludeRegexTransform: 
 
-/Users/hey/university/SJTU/learning/leetcode-zjy/nextPermutationSol.cpp
-nextPermutationSol.h
-/Users/hey/university/SJTU/learning/leetcode-zjy/nextPermutationSol.h
+/Users/hey/university/SJTU/learning/leetcode-zjy/ListQueue.cpp
 iostream
 /Users/hey/university/SJTU/learning/leetcode-zjy/iostream
-
-/Users/hey/university/SJTU/learning/leetcode-zjy/nextPermutationSol.h
-vector
-/Users/hey/university/SJTU/learning/leetcode-zjy/vector
+list
+/Users/hey/university/SJTU/learning/leetcode-zjy/list
 

@@ -226,6 +226,162 @@ CMakeFiles/leetcode_zjy.dir/nextPermutationSol.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/leetcode_zjy.dir/nextPermutationSol.cpp.s"
 	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/hey/university/SJTU/learning/leetcode-zjy/nextPermutationSol.cpp -o CMakeFiles/leetcode_zjy.dir/nextPermutationSol.cpp.s
 
+CMakeFiles/leetcode_zjy.dir/permuteSol.cpp.o: CMakeFiles/leetcode_zjy.dir/flags.make
+CMakeFiles/leetcode_zjy.dir/permuteSol.cpp.o: ../permuteSol.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/hey/university/SJTU/learning/leetcode-zjy/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building CXX object CMakeFiles/leetcode_zjy.dir/permuteSol.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/leetcode_zjy.dir/permuteSol.cpp.o -c /Users/hey/university/SJTU/learning/leetcode-zjy/permuteSol.cpp
+
+CMakeFiles/leetcode_zjy.dir/permuteSol.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/leetcode_zjy.dir/permuteSol.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/hey/university/SJTU/learning/leetcode-zjy/permuteSol.cpp > CMakeFiles/leetcode_zjy.dir/permuteSol.cpp.i
+
+CMakeFiles/leetcode_zjy.dir/permuteSol.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/leetcode_zjy.dir/permuteSol.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/hey/university/SJTU/learning/leetcode-zjy/permuteSol.cpp -o CMakeFiles/leetcode_zjy.dir/permuteSol.cpp.s
+
+CMakeFiles/leetcode_zjy.dir/climbStairsSol.cpp.o: CMakeFiles/leetcode_zjy.dir/flags.make
+CMakeFiles/leetcode_zjy.dir/climbStairsSol.cpp.o: ../climbStairsSol.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/hey/university/SJTU/learning/leetcode-zjy/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building CXX object CMakeFiles/leetcode_zjy.dir/climbStairsSol.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/leetcode_zjy.dir/climbStairsSol.cpp.o -c /Users/hey/university/SJTU/learning/leetcode-zjy/climbStairsSol.cpp
+
+CMakeFiles/leetcode_zjy.dir/climbStairsSol.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/leetcode_zjy.dir/climbStairsSol.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/hey/university/SJTU/learning/leetcode-zjy/climbStairsSol.cpp > CMakeFiles/leetcode_zjy.dir/climbStairsSol.cpp.i
+
+CMakeFiles/leetcode_zjy.dir/climbStairsSol.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/leetcode_zjy.dir/climbStairsSol.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/hey/university/SJTU/learning/leetcode-zjy/climbStairsSol.cpp -o CMakeFiles/leetcode_zjy.dir/climbStairsSol.cpp.s
+
+CMakeFiles/leetcode_zjy.dir/mergeSol.cpp.o: CMakeFiles/leetcode_zjy.dir/flags.make
+CMakeFiles/leetcode_zjy.dir/mergeSol.cpp.o: ../mergeSol.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/hey/university/SJTU/learning/leetcode-zjy/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building CXX object CMakeFiles/leetcode_zjy.dir/mergeSol.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/leetcode_zjy.dir/mergeSol.cpp.o -c /Users/hey/university/SJTU/learning/leetcode-zjy/mergeSol.cpp
+
+CMakeFiles/leetcode_zjy.dir/mergeSol.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/leetcode_zjy.dir/mergeSol.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/hey/university/SJTU/learning/leetcode-zjy/mergeSol.cpp > CMakeFiles/leetcode_zjy.dir/mergeSol.cpp.i
+
+CMakeFiles/leetcode_zjy.dir/mergeSol.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/leetcode_zjy.dir/mergeSol.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/hey/university/SJTU/learning/leetcode-zjy/mergeSol.cpp -o CMakeFiles/leetcode_zjy.dir/mergeSol.cpp.s
+
+CMakeFiles/leetcode_zjy.dir/existSol.cpp.o: CMakeFiles/leetcode_zjy.dir/flags.make
+CMakeFiles/leetcode_zjy.dir/existSol.cpp.o: ../existSol.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/hey/university/SJTU/learning/leetcode-zjy/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Building CXX object CMakeFiles/leetcode_zjy.dir/existSol.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/leetcode_zjy.dir/existSol.cpp.o -c /Users/hey/university/SJTU/learning/leetcode-zjy/existSol.cpp
+
+CMakeFiles/leetcode_zjy.dir/existSol.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/leetcode_zjy.dir/existSol.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/hey/university/SJTU/learning/leetcode-zjy/existSol.cpp > CMakeFiles/leetcode_zjy.dir/existSol.cpp.i
+
+CMakeFiles/leetcode_zjy.dir/existSol.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/leetcode_zjy.dir/existSol.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/hey/university/SJTU/learning/leetcode-zjy/existSol.cpp -o CMakeFiles/leetcode_zjy.dir/existSol.cpp.s
+
+CMakeFiles/leetcode_zjy.dir/topKFrequentSol.cpp.o: CMakeFiles/leetcode_zjy.dir/flags.make
+CMakeFiles/leetcode_zjy.dir/topKFrequentSol.cpp.o: ../topKFrequentSol.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/hey/university/SJTU/learning/leetcode-zjy/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Building CXX object CMakeFiles/leetcode_zjy.dir/topKFrequentSol.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/leetcode_zjy.dir/topKFrequentSol.cpp.o -c /Users/hey/university/SJTU/learning/leetcode-zjy/topKFrequentSol.cpp
+
+CMakeFiles/leetcode_zjy.dir/topKFrequentSol.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/leetcode_zjy.dir/topKFrequentSol.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/hey/university/SJTU/learning/leetcode-zjy/topKFrequentSol.cpp > CMakeFiles/leetcode_zjy.dir/topKFrequentSol.cpp.i
+
+CMakeFiles/leetcode_zjy.dir/topKFrequentSol.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/leetcode_zjy.dir/topKFrequentSol.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/hey/university/SJTU/learning/leetcode-zjy/topKFrequentSol.cpp -o CMakeFiles/leetcode_zjy.dir/topKFrequentSol.cpp.s
+
+CMakeFiles/leetcode_zjy.dir/myString.cpp.o: CMakeFiles/leetcode_zjy.dir/flags.make
+CMakeFiles/leetcode_zjy.dir/myString.cpp.o: ../myString.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/hey/university/SJTU/learning/leetcode-zjy/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Building CXX object CMakeFiles/leetcode_zjy.dir/myString.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/leetcode_zjy.dir/myString.cpp.o -c /Users/hey/university/SJTU/learning/leetcode-zjy/myString.cpp
+
+CMakeFiles/leetcode_zjy.dir/myString.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/leetcode_zjy.dir/myString.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/hey/university/SJTU/learning/leetcode-zjy/myString.cpp > CMakeFiles/leetcode_zjy.dir/myString.cpp.i
+
+CMakeFiles/leetcode_zjy.dir/myString.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/leetcode_zjy.dir/myString.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/hey/university/SJTU/learning/leetcode-zjy/myString.cpp -o CMakeFiles/leetcode_zjy.dir/myString.cpp.s
+
+CMakeFiles/leetcode_zjy.dir/ArrayQueue.cpp.o: CMakeFiles/leetcode_zjy.dir/flags.make
+CMakeFiles/leetcode_zjy.dir/ArrayQueue.cpp.o: ../ArrayQueue.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/hey/university/SJTU/learning/leetcode-zjy/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_20) "Building CXX object CMakeFiles/leetcode_zjy.dir/ArrayQueue.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/leetcode_zjy.dir/ArrayQueue.cpp.o -c /Users/hey/university/SJTU/learning/leetcode-zjy/ArrayQueue.cpp
+
+CMakeFiles/leetcode_zjy.dir/ArrayQueue.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/leetcode_zjy.dir/ArrayQueue.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/hey/university/SJTU/learning/leetcode-zjy/ArrayQueue.cpp > CMakeFiles/leetcode_zjy.dir/ArrayQueue.cpp.i
+
+CMakeFiles/leetcode_zjy.dir/ArrayQueue.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/leetcode_zjy.dir/ArrayQueue.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/hey/university/SJTU/learning/leetcode-zjy/ArrayQueue.cpp -o CMakeFiles/leetcode_zjy.dir/ArrayQueue.cpp.s
+
+CMakeFiles/leetcode_zjy.dir/CallStackOverFlow.cpp.o: CMakeFiles/leetcode_zjy.dir/flags.make
+CMakeFiles/leetcode_zjy.dir/CallStackOverFlow.cpp.o: ../CallStackOverFlow.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/hey/university/SJTU/learning/leetcode-zjy/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_21) "Building CXX object CMakeFiles/leetcode_zjy.dir/CallStackOverFlow.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/leetcode_zjy.dir/CallStackOverFlow.cpp.o -c /Users/hey/university/SJTU/learning/leetcode-zjy/CallStackOverFlow.cpp
+
+CMakeFiles/leetcode_zjy.dir/CallStackOverFlow.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/leetcode_zjy.dir/CallStackOverFlow.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/hey/university/SJTU/learning/leetcode-zjy/CallStackOverFlow.cpp > CMakeFiles/leetcode_zjy.dir/CallStackOverFlow.cpp.i
+
+CMakeFiles/leetcode_zjy.dir/CallStackOverFlow.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/leetcode_zjy.dir/CallStackOverFlow.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/hey/university/SJTU/learning/leetcode-zjy/CallStackOverFlow.cpp -o CMakeFiles/leetcode_zjy.dir/CallStackOverFlow.cpp.s
+
+CMakeFiles/leetcode_zjy.dir/LinkListQueue.cpp.o: CMakeFiles/leetcode_zjy.dir/flags.make
+CMakeFiles/leetcode_zjy.dir/LinkListQueue.cpp.o: ../LinkListQueue.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/hey/university/SJTU/learning/leetcode-zjy/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_22) "Building CXX object CMakeFiles/leetcode_zjy.dir/LinkListQueue.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/leetcode_zjy.dir/LinkListQueue.cpp.o -c /Users/hey/university/SJTU/learning/leetcode-zjy/LinkListQueue.cpp
+
+CMakeFiles/leetcode_zjy.dir/LinkListQueue.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/leetcode_zjy.dir/LinkListQueue.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/hey/university/SJTU/learning/leetcode-zjy/LinkListQueue.cpp > CMakeFiles/leetcode_zjy.dir/LinkListQueue.cpp.i
+
+CMakeFiles/leetcode_zjy.dir/LinkListQueue.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/leetcode_zjy.dir/LinkListQueue.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/hey/university/SJTU/learning/leetcode-zjy/LinkListQueue.cpp -o CMakeFiles/leetcode_zjy.dir/LinkListQueue.cpp.s
+
+CMakeFiles/leetcode_zjy.dir/ListQueue.cpp.o: CMakeFiles/leetcode_zjy.dir/flags.make
+CMakeFiles/leetcode_zjy.dir/ListQueue.cpp.o: ../ListQueue.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/hey/university/SJTU/learning/leetcode-zjy/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_23) "Building CXX object CMakeFiles/leetcode_zjy.dir/ListQueue.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/leetcode_zjy.dir/ListQueue.cpp.o -c /Users/hey/university/SJTU/learning/leetcode-zjy/ListQueue.cpp
+
+CMakeFiles/leetcode_zjy.dir/ListQueue.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/leetcode_zjy.dir/ListQueue.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/hey/university/SJTU/learning/leetcode-zjy/ListQueue.cpp > CMakeFiles/leetcode_zjy.dir/ListQueue.cpp.i
+
+CMakeFiles/leetcode_zjy.dir/ListQueue.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/leetcode_zjy.dir/ListQueue.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/hey/university/SJTU/learning/leetcode-zjy/ListQueue.cpp -o CMakeFiles/leetcode_zjy.dir/ListQueue.cpp.s
+
+CMakeFiles/leetcode_zjy.dir/learnTemplate.cpp.o: CMakeFiles/leetcode_zjy.dir/flags.make
+CMakeFiles/leetcode_zjy.dir/learnTemplate.cpp.o: ../learnTemplate.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/hey/university/SJTU/learning/leetcode-zjy/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_24) "Building CXX object CMakeFiles/leetcode_zjy.dir/learnTemplate.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/leetcode_zjy.dir/learnTemplate.cpp.o -c /Users/hey/university/SJTU/learning/leetcode-zjy/learnTemplate.cpp
+
+CMakeFiles/leetcode_zjy.dir/learnTemplate.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/leetcode_zjy.dir/learnTemplate.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/hey/university/SJTU/learning/leetcode-zjy/learnTemplate.cpp > CMakeFiles/leetcode_zjy.dir/learnTemplate.cpp.i
+
+CMakeFiles/leetcode_zjy.dir/learnTemplate.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/leetcode_zjy.dir/learnTemplate.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/hey/university/SJTU/learning/leetcode-zjy/learnTemplate.cpp -o CMakeFiles/leetcode_zjy.dir/learnTemplate.cpp.s
+
+CMakeFiles/leetcode_zjy.dir/VectorPQueue.cpp.o: CMakeFiles/leetcode_zjy.dir/flags.make
+CMakeFiles/leetcode_zjy.dir/VectorPQueue.cpp.o: ../VectorPQueue.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/hey/university/SJTU/learning/leetcode-zjy/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_25) "Building CXX object CMakeFiles/leetcode_zjy.dir/VectorPQueue.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/leetcode_zjy.dir/VectorPQueue.cpp.o -c /Users/hey/university/SJTU/learning/leetcode-zjy/VectorPQueue.cpp
+
+CMakeFiles/leetcode_zjy.dir/VectorPQueue.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/leetcode_zjy.dir/VectorPQueue.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/hey/university/SJTU/learning/leetcode-zjy/VectorPQueue.cpp > CMakeFiles/leetcode_zjy.dir/VectorPQueue.cpp.i
+
+CMakeFiles/leetcode_zjy.dir/VectorPQueue.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/leetcode_zjy.dir/VectorPQueue.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/hey/university/SJTU/learning/leetcode-zjy/VectorPQueue.cpp -o CMakeFiles/leetcode_zjy.dir/VectorPQueue.cpp.s
+
 # Object files for target leetcode_zjy
 leetcode_zjy_OBJECTS = \
 "CMakeFiles/leetcode_zjy.dir/main.cpp.o" \
@@ -240,7 +396,19 @@ leetcode_zjy_OBJECTS = \
 "CMakeFiles/leetcode_zjy.dir/generateParenthesisSol.cpp.o" \
 "CMakeFiles/leetcode_zjy.dir/removeNthFromEndSol.cpp.o" \
 "CMakeFiles/leetcode_zjy.dir/mergeTwoListsSol.cpp.o" \
-"CMakeFiles/leetcode_zjy.dir/nextPermutationSol.cpp.o"
+"CMakeFiles/leetcode_zjy.dir/nextPermutationSol.cpp.o" \
+"CMakeFiles/leetcode_zjy.dir/permuteSol.cpp.o" \
+"CMakeFiles/leetcode_zjy.dir/climbStairsSol.cpp.o" \
+"CMakeFiles/leetcode_zjy.dir/mergeSol.cpp.o" \
+"CMakeFiles/leetcode_zjy.dir/existSol.cpp.o" \
+"CMakeFiles/leetcode_zjy.dir/topKFrequentSol.cpp.o" \
+"CMakeFiles/leetcode_zjy.dir/myString.cpp.o" \
+"CMakeFiles/leetcode_zjy.dir/ArrayQueue.cpp.o" \
+"CMakeFiles/leetcode_zjy.dir/CallStackOverFlow.cpp.o" \
+"CMakeFiles/leetcode_zjy.dir/LinkListQueue.cpp.o" \
+"CMakeFiles/leetcode_zjy.dir/ListQueue.cpp.o" \
+"CMakeFiles/leetcode_zjy.dir/learnTemplate.cpp.o" \
+"CMakeFiles/leetcode_zjy.dir/VectorPQueue.cpp.o"
 
 # External object files for target leetcode_zjy
 leetcode_zjy_EXTERNAL_OBJECTS =
@@ -258,9 +426,21 @@ leetcode_zjy: CMakeFiles/leetcode_zjy.dir/generateParenthesisSol.cpp.o
 leetcode_zjy: CMakeFiles/leetcode_zjy.dir/removeNthFromEndSol.cpp.o
 leetcode_zjy: CMakeFiles/leetcode_zjy.dir/mergeTwoListsSol.cpp.o
 leetcode_zjy: CMakeFiles/leetcode_zjy.dir/nextPermutationSol.cpp.o
+leetcode_zjy: CMakeFiles/leetcode_zjy.dir/permuteSol.cpp.o
+leetcode_zjy: CMakeFiles/leetcode_zjy.dir/climbStairsSol.cpp.o
+leetcode_zjy: CMakeFiles/leetcode_zjy.dir/mergeSol.cpp.o
+leetcode_zjy: CMakeFiles/leetcode_zjy.dir/existSol.cpp.o
+leetcode_zjy: CMakeFiles/leetcode_zjy.dir/topKFrequentSol.cpp.o
+leetcode_zjy: CMakeFiles/leetcode_zjy.dir/myString.cpp.o
+leetcode_zjy: CMakeFiles/leetcode_zjy.dir/ArrayQueue.cpp.o
+leetcode_zjy: CMakeFiles/leetcode_zjy.dir/CallStackOverFlow.cpp.o
+leetcode_zjy: CMakeFiles/leetcode_zjy.dir/LinkListQueue.cpp.o
+leetcode_zjy: CMakeFiles/leetcode_zjy.dir/ListQueue.cpp.o
+leetcode_zjy: CMakeFiles/leetcode_zjy.dir/learnTemplate.cpp.o
+leetcode_zjy: CMakeFiles/leetcode_zjy.dir/VectorPQueue.cpp.o
 leetcode_zjy: CMakeFiles/leetcode_zjy.dir/build.make
 leetcode_zjy: CMakeFiles/leetcode_zjy.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/hey/university/SJTU/learning/leetcode-zjy/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Linking CXX executable leetcode_zjy"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/hey/university/SJTU/learning/leetcode-zjy/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_26) "Linking CXX executable leetcode_zjy"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/leetcode_zjy.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

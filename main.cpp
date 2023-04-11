@@ -11,12 +11,17 @@
 #include "removeNthFromEndSol.h"
 #include "mergeTwoListsSol.h"
 #include "nextPermutationSol.h"
+#include "permuteSol.h"
+#include "climbStairsSol.h"
+#include "mergeSol.h"
+#include "existSol.h"
+#include "topKFrequentSol.h"
+#include "myString.h"
 
-int main(int argc, char *argv[]) {
-    std::cout << "Hello, World!" << std::endl;
+using namespace std;
+class ArrayQueue;
 
-    nextPermutationSol n;
-    n.nMain();
-
-    return 0;
-}
+//int main(int argc, char *argv[]) {
+//    std::cout << "Hello, World!" << std::endl;
+//    return 0;
+//}

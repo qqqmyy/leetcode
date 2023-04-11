@@ -123,6 +123,33 @@ leetcode_zjy/fast:
 	$(MAKE) -f CMakeFiles/leetcode_zjy.dir/build.make CMakeFiles/leetcode_zjy.dir/build
 .PHONY : leetcode_zjy/fast
 
+ArrayQueue.o: ArrayQueue.cpp.o
+
+.PHONY : ArrayQueue.o
+
+# target to build an object file
+ArrayQueue.cpp.o:
+	$(MAKE) -f CMakeFiles/leetcode_zjy.dir/build.make CMakeFiles/leetcode_zjy.dir/ArrayQueue.cpp.o
+.PHONY : ArrayQueue.cpp.o
+
+ArrayQueue.i: ArrayQueue.cpp.i
+
+.PHONY : ArrayQueue.i
+
+# target to preprocess a source file
+ArrayQueue.cpp.i:
+	$(MAKE) -f CMakeFiles/leetcode_zjy.dir/build.make CMakeFiles/leetcode_zjy.dir/ArrayQueue.cpp.i
+.PHONY : ArrayQueue.cpp.i
+
+ArrayQueue.s: ArrayQueue.cpp.s
+
+.PHONY : ArrayQueue.s
+
+# target to generate assembly for a file
+ArrayQueue.cpp.s:
+	$(MAKE) -f CMakeFiles/leetcode_zjy.dir/build.make CMakeFiles/leetcode_zjy.dir/ArrayQueue.cpp.s
+.PHONY : ArrayQueue.cpp.s
+
 CMyString.o: CMyString.cpp.o
 
 .PHONY : CMyString.o
@@ -150,6 +177,33 @@ CMyString.cpp.s:
 	$(MAKE) -f CMakeFiles/leetcode_zjy.dir/build.make CMakeFiles/leetcode_zjy.dir/CMyString.cpp.s
 .PHONY : CMyString.cpp.s
 
+CallStackOverFlow.o: CallStackOverFlow.cpp.o
+
+.PHONY : CallStackOverFlow.o
+
+# target to build an object file
+CallStackOverFlow.cpp.o:
+	$(MAKE) -f CMakeFiles/leetcode_zjy.dir/build.make CMakeFiles/leetcode_zjy.dir/CallStackOverFlow.cpp.o
+.PHONY : CallStackOverFlow.cpp.o
+
+CallStackOverFlow.i: CallStackOverFlow.cpp.i
+
+.PHONY : CallStackOverFlow.i
+
+# target to preprocess a source file
+CallStackOverFlow.cpp.i:
+	$(MAKE) -f CMakeFiles/leetcode_zjy.dir/build.make CMakeFiles/leetcode_zjy.dir/CallStackOverFlow.cpp.i
+.PHONY : CallStackOverFlow.cpp.i
+
+CallStackOverFlow.s: CallStackOverFlow.cpp.s
+
+.PHONY : CallStackOverFlow.s
+
+# target to generate assembly for a file
+CallStackOverFlow.cpp.s:
+	$(MAKE) -f CMakeFiles/leetcode_zjy.dir/build.make CMakeFiles/leetcode_zjy.dir/CallStackOverFlow.cpp.s
+.PHONY : CallStackOverFlow.cpp.s
+
 LetterCombinationsSol.o: LetterCombinationsSol.cpp.o
 
 .PHONY : LetterCombinationsSol.o
@@ -176,6 +230,60 @@ LetterCombinationsSol.s: LetterCombinationsSol.cpp.s
 LetterCombinationsSol.cpp.s:
 	$(MAKE) -f CMakeFiles/leetcode_zjy.dir/build.make CMakeFiles/leetcode_zjy.dir/LetterCombinationsSol.cpp.s
 .PHONY : LetterCombinationsSol.cpp.s
+
+LinkListQueue.o: LinkListQueue.cpp.o
+
+.PHONY : LinkListQueue.o
+
+# target to build an object file
+LinkListQueue.cpp.o:
+	$(MAKE) -f CMakeFiles/leetcode_zjy.dir/build.make CMakeFiles/leetcode_zjy.dir/LinkListQueue.cpp.o
+.PHONY : LinkListQueue.cpp.o
+
+LinkListQueue.i: LinkListQueue.cpp.i
+
+.PHONY : LinkListQueue.i
+
+# target to preprocess a source file
+LinkListQueue.cpp.i:
+	$(MAKE) -f CMakeFiles/leetcode_zjy.dir/build.make CMakeFiles/leetcode_zjy.dir/LinkListQueue.cpp.i
+.PHONY : LinkListQueue.cpp.i
+
+LinkListQueue.s: LinkListQueue.cpp.s
+
+.PHONY : LinkListQueue.s
+
+# target to generate assembly for a file
+LinkListQueue.cpp.s:
+	$(MAKE) -f CMakeFiles/leetcode_zjy.dir/build.make CMakeFiles/leetcode_zjy.dir/LinkListQueue.cpp.s
+.PHONY : LinkListQueue.cpp.s
+
+ListQueue.o: ListQueue.cpp.o
+
+.PHONY : ListQueue.o
+
+# target to build an object file
+ListQueue.cpp.o:
+	$(MAKE) -f CMakeFiles/leetcode_zjy.dir/build.make CMakeFiles/leetcode_zjy.dir/ListQueue.cpp.o
+.PHONY : ListQueue.cpp.o
+
+ListQueue.i: ListQueue.cpp.i
+
+.PHONY : ListQueue.i
+
+# target to preprocess a source file
+ListQueue.cpp.i:
+	$(MAKE) -f CMakeFiles/leetcode_zjy.dir/build.make CMakeFiles/leetcode_zjy.dir/ListQueue.cpp.i
+.PHONY : ListQueue.cpp.i
+
+ListQueue.s: ListQueue.cpp.s
+
+.PHONY : ListQueue.s
+
+# target to generate assembly for a file
+ListQueue.cpp.s:
+	$(MAKE) -f CMakeFiles/leetcode_zjy.dir/build.make CMakeFiles/leetcode_zjy.dir/ListQueue.cpp.s
+.PHONY : ListQueue.cpp.s
 
 LongestSubStr.o: LongestSubStr.cpp.o
 
@@ -312,6 +420,87 @@ ThreeSumSol.cpp.s:
 	$(MAKE) -f CMakeFiles/leetcode_zjy.dir/build.make CMakeFiles/leetcode_zjy.dir/ThreeSumSol.cpp.s
 .PHONY : ThreeSumSol.cpp.s
 
+VectorPQueue.o: VectorPQueue.cpp.o
+
+.PHONY : VectorPQueue.o
+
+# target to build an object file
+VectorPQueue.cpp.o:
+	$(MAKE) -f CMakeFiles/leetcode_zjy.dir/build.make CMakeFiles/leetcode_zjy.dir/VectorPQueue.cpp.o
+.PHONY : VectorPQueue.cpp.o
+
+VectorPQueue.i: VectorPQueue.cpp.i
+
+.PHONY : VectorPQueue.i
+
+# target to preprocess a source file
+VectorPQueue.cpp.i:
+	$(MAKE) -f CMakeFiles/leetcode_zjy.dir/build.make CMakeFiles/leetcode_zjy.dir/VectorPQueue.cpp.i
+.PHONY : VectorPQueue.cpp.i
+
+VectorPQueue.s: VectorPQueue.cpp.s
+
+.PHONY : VectorPQueue.s
+
+# target to generate assembly for a file
+VectorPQueue.cpp.s:
+	$(MAKE) -f CMakeFiles/leetcode_zjy.dir/build.make CMakeFiles/leetcode_zjy.dir/VectorPQueue.cpp.s
+.PHONY : VectorPQueue.cpp.s
+
+climbStairsSol.o: climbStairsSol.cpp.o
+
+.PHONY : climbStairsSol.o
+
+# target to build an object file
+climbStairsSol.cpp.o:
+	$(MAKE) -f CMakeFiles/leetcode_zjy.dir/build.make CMakeFiles/leetcode_zjy.dir/climbStairsSol.cpp.o
+.PHONY : climbStairsSol.cpp.o
+
+climbStairsSol.i: climbStairsSol.cpp.i
+
+.PHONY : climbStairsSol.i
+
+# target to preprocess a source file
+climbStairsSol.cpp.i:
+	$(MAKE) -f CMakeFiles/leetcode_zjy.dir/build.make CMakeFiles/leetcode_zjy.dir/climbStairsSol.cpp.i
+.PHONY : climbStairsSol.cpp.i
+
+climbStairsSol.s: climbStairsSol.cpp.s
+
+.PHONY : climbStairsSol.s
+
+# target to generate assembly for a file
+climbStairsSol.cpp.s:
+	$(MAKE) -f CMakeFiles/leetcode_zjy.dir/build.make CMakeFiles/leetcode_zjy.dir/climbStairsSol.cpp.s
+.PHONY : climbStairsSol.cpp.s
+
+existSol.o: existSol.cpp.o
+
+.PHONY : existSol.o
+
+# target to build an object file
+existSol.cpp.o:
+	$(MAKE) -f CMakeFiles/leetcode_zjy.dir/build.make CMakeFiles/leetcode_zjy.dir/existSol.cpp.o
+.PHONY : existSol.cpp.o
+
+existSol.i: existSol.cpp.i
+
+.PHONY : existSol.i
+
+# target to preprocess a source file
+existSol.cpp.i:
+	$(MAKE) -f CMakeFiles/leetcode_zjy.dir/build.make CMakeFiles/leetcode_zjy.dir/existSol.cpp.i
+.PHONY : existSol.cpp.i
+
+existSol.s: existSol.cpp.s
+
+.PHONY : existSol.s
+
+# target to generate assembly for a file
+existSol.cpp.s:
+	$(MAKE) -f CMakeFiles/leetcode_zjy.dir/build.make CMakeFiles/leetcode_zjy.dir/existSol.cpp.s
+.PHONY : existSol.cpp.s
+
 generateParenthesisSol.o: generateParenthesisSol.cpp.o
 
 .PHONY : generateParenthesisSol.o
@@ -338,6 +527,33 @@ generateParenthesisSol.s: generateParenthesisSol.cpp.s
 generateParenthesisSol.cpp.s:
 	$(MAKE) -f CMakeFiles/leetcode_zjy.dir/build.make CMakeFiles/leetcode_zjy.dir/generateParenthesisSol.cpp.s
 .PHONY : generateParenthesisSol.cpp.s
+
+learnTemplate.o: learnTemplate.cpp.o
+
+.PHONY : learnTemplate.o
+
+# target to build an object file
+learnTemplate.cpp.o:
+	$(MAKE) -f CMakeFiles/leetcode_zjy.dir/build.make CMakeFiles/leetcode_zjy.dir/learnTemplate.cpp.o
+.PHONY : learnTemplate.cpp.o
+
+learnTemplate.i: learnTemplate.cpp.i
+
+.PHONY : learnTemplate.i
+
+# target to preprocess a source file
+learnTemplate.cpp.i:
+	$(MAKE) -f CMakeFiles/leetcode_zjy.dir/build.make CMakeFiles/leetcode_zjy.dir/learnTemplate.cpp.i
+.PHONY : learnTemplate.cpp.i
+
+learnTemplate.s: learnTemplate.cpp.s
+
+.PHONY : learnTemplate.s
+
+# target to generate assembly for a file
+learnTemplate.cpp.s:
+	$(MAKE) -f CMakeFiles/leetcode_zjy.dir/build.make CMakeFiles/leetcode_zjy.dir/learnTemplate.cpp.s
+.PHONY : learnTemplate.cpp.s
 
 main.o: main.cpp.o
 
@@ -366,6 +582,33 @@ main.cpp.s:
 	$(MAKE) -f CMakeFiles/leetcode_zjy.dir/build.make CMakeFiles/leetcode_zjy.dir/main.cpp.s
 .PHONY : main.cpp.s
 
+mergeSol.o: mergeSol.cpp.o
+
+.PHONY : mergeSol.o
+
+# target to build an object file
+mergeSol.cpp.o:
+	$(MAKE) -f CMakeFiles/leetcode_zjy.dir/build.make CMakeFiles/leetcode_zjy.dir/mergeSol.cpp.o
+.PHONY : mergeSol.cpp.o
+
+mergeSol.i: mergeSol.cpp.i
+
+.PHONY : mergeSol.i
+
+# target to preprocess a source file
+mergeSol.cpp.i:
+	$(MAKE) -f CMakeFiles/leetcode_zjy.dir/build.make CMakeFiles/leetcode_zjy.dir/mergeSol.cpp.i
+.PHONY : mergeSol.cpp.i
+
+mergeSol.s: mergeSol.cpp.s
+
+.PHONY : mergeSol.s
+
+# target to generate assembly for a file
+mergeSol.cpp.s:
+	$(MAKE) -f CMakeFiles/leetcode_zjy.dir/build.make CMakeFiles/leetcode_zjy.dir/mergeSol.cpp.s
+.PHONY : mergeSol.cpp.s
+
 mergeTwoListsSol.o: mergeTwoListsSol.cpp.o
 
 .PHONY : mergeTwoListsSol.o
@@ -393,6 +636,33 @@ mergeTwoListsSol.cpp.s:
 	$(MAKE) -f CMakeFiles/leetcode_zjy.dir/build.make CMakeFiles/leetcode_zjy.dir/mergeTwoListsSol.cpp.s
 .PHONY : mergeTwoListsSol.cpp.s
 
+myString.o: myString.cpp.o
+
+.PHONY : myString.o
+
+# target to build an object file
+myString.cpp.o:
+	$(MAKE) -f CMakeFiles/leetcode_zjy.dir/build.make CMakeFiles/leetcode_zjy.dir/myString.cpp.o
+.PHONY : myString.cpp.o
+
+myString.i: myString.cpp.i
+
+.PHONY : myString.i
+
+# target to preprocess a source file
+myString.cpp.i:
+	$(MAKE) -f CMakeFiles/leetcode_zjy.dir/build.make CMakeFiles/leetcode_zjy.dir/myString.cpp.i
+.PHONY : myString.cpp.i
+
+myString.s: myString.cpp.s
+
+.PHONY : myString.s
+
+# target to generate assembly for a file
+myString.cpp.s:
+	$(MAKE) -f CMakeFiles/leetcode_zjy.dir/build.make CMakeFiles/leetcode_zjy.dir/myString.cpp.s
+.PHONY : myString.cpp.s
+
 nextPermutationSol.o: nextPermutationSol.cpp.o
 
 .PHONY : nextPermutationSol.o
@@ -419,6 +689,33 @@ nextPermutationSol.s: nextPermutationSol.cpp.s
 nextPermutationSol.cpp.s:
 	$(MAKE) -f CMakeFiles/leetcode_zjy.dir/build.make CMakeFiles/leetcode_zjy.dir/nextPermutationSol.cpp.s
 .PHONY : nextPermutationSol.cpp.s
+
+permuteSol.o: permuteSol.cpp.o
+
+.PHONY : permuteSol.o
+
+# target to build an object file
+permuteSol.cpp.o:
+	$(MAKE) -f CMakeFiles/leetcode_zjy.dir/build.make CMakeFiles/leetcode_zjy.dir/permuteSol.cpp.o
+.PHONY : permuteSol.cpp.o
+
+permuteSol.i: permuteSol.cpp.i
+
+.PHONY : permuteSol.i
+
+# target to preprocess a source file
+permuteSol.cpp.i:
+	$(MAKE) -f CMakeFiles/leetcode_zjy.dir/build.make CMakeFiles/leetcode_zjy.dir/permuteSol.cpp.i
+.PHONY : permuteSol.cpp.i
+
+permuteSol.s: permuteSol.cpp.s
+
+.PHONY : permuteSol.s
+
+# target to generate assembly for a file
+permuteSol.cpp.s:
+	$(MAKE) -f CMakeFiles/leetcode_zjy.dir/build.make CMakeFiles/leetcode_zjy.dir/permuteSol.cpp.s
+.PHONY : permuteSol.cpp.s
 
 removeNthFromEndSol.o: removeNthFromEndSol.cpp.o
 
@@ -474,6 +771,33 @@ test.cpp.s:
 	$(MAKE) -f CMakeFiles/leetcode_zjy.dir/build.make CMakeFiles/leetcode_zjy.dir/test.cpp.s
 .PHONY : test.cpp.s
 
+topKFrequentSol.o: topKFrequentSol.cpp.o
+
+.PHONY : topKFrequentSol.o
+
+# target to build an object file
+topKFrequentSol.cpp.o:
+	$(MAKE) -f CMakeFiles/leetcode_zjy.dir/build.make CMakeFiles/leetcode_zjy.dir/topKFrequentSol.cpp.o
+.PHONY : topKFrequentSol.cpp.o
+
+topKFrequentSol.i: topKFrequentSol.cpp.i
+
+.PHONY : topKFrequentSol.i
+
+# target to preprocess a source file
+topKFrequentSol.cpp.i:
+	$(MAKE) -f CMakeFiles/leetcode_zjy.dir/build.make CMakeFiles/leetcode_zjy.dir/topKFrequentSol.cpp.i
+.PHONY : topKFrequentSol.cpp.i
+
+topKFrequentSol.s: topKFrequentSol.cpp.s
+
+.PHONY : topKFrequentSol.s
+
+# target to generate assembly for a file
+topKFrequentSol.cpp.s:
+	$(MAKE) -f CMakeFiles/leetcode_zjy.dir/build.make CMakeFiles/leetcode_zjy.dir/topKFrequentSol.cpp.s
+.PHONY : topKFrequentSol.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -483,12 +807,24 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... leetcode_zjy"
+	@echo "... ArrayQueue.o"
+	@echo "... ArrayQueue.i"
+	@echo "... ArrayQueue.s"
 	@echo "... CMyString.o"
 	@echo "... CMyString.i"
 	@echo "... CMyString.s"
+	@echo "... CallStackOverFlow.o"
+	@echo "... CallStackOverFlow.i"
+	@echo "... CallStackOverFlow.s"
 	@echo "... LetterCombinationsSol.o"
 	@echo "... LetterCombinationsSol.i"
 	@echo "... LetterCombinationsSol.s"
+	@echo "... LinkListQueue.o"
+	@echo "... LinkListQueue.i"
+	@echo "... LinkListQueue.s"
+	@echo "... ListQueue.o"
+	@echo "... ListQueue.i"
+	@echo "... ListQueue.s"
 	@echo "... LongestSubStr.o"
 	@echo "... LongestSubStr.i"
 	@echo "... LongestSubStr.s"
@@ -504,24 +840,48 @@ help:
 	@echo "... ThreeSumSol.o"
 	@echo "... ThreeSumSol.i"
 	@echo "... ThreeSumSol.s"
+	@echo "... VectorPQueue.o"
+	@echo "... VectorPQueue.i"
+	@echo "... VectorPQueue.s"
+	@echo "... climbStairsSol.o"
+	@echo "... climbStairsSol.i"
+	@echo "... climbStairsSol.s"
+	@echo "... existSol.o"
+	@echo "... existSol.i"
+	@echo "... existSol.s"
 	@echo "... generateParenthesisSol.o"
 	@echo "... generateParenthesisSol.i"
 	@echo "... generateParenthesisSol.s"
+	@echo "... learnTemplate.o"
+	@echo "... learnTemplate.i"
+	@echo "... learnTemplate.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
+	@echo "... mergeSol.o"
+	@echo "... mergeSol.i"
+	@echo "... mergeSol.s"
 	@echo "... mergeTwoListsSol.o"
 	@echo "... mergeTwoListsSol.i"
 	@echo "... mergeTwoListsSol.s"
+	@echo "... myString.o"
+	@echo "... myString.i"
+	@echo "... myString.s"
 	@echo "... nextPermutationSol.o"
 	@echo "... nextPermutationSol.i"
 	@echo "... nextPermutationSol.s"
+	@echo "... permuteSol.o"
+	@echo "... permuteSol.i"
+	@echo "... permuteSol.s"
 	@echo "... removeNthFromEndSol.o"
 	@echo "... removeNthFromEndSol.i"
 	@echo "... removeNthFromEndSol.s"
 	@echo "... test.o"
 	@echo "... test.i"
 	@echo "... test.s"
+	@echo "... topKFrequentSol.o"
+	@echo "... topKFrequentSol.i"
+	@echo "... topKFrequentSol.s"
 .PHONY : help
 
 
